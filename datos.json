@@ -1,0 +1,11 @@
+{
+ "region": "Metropolitana",
+ "comuna": "Peñalolén",
+ "temperaturas": [
+    {"dia": 1, "t": 23.5},
+    {"dia": 2, "t": 28.5},
+    {"dia": 3, "t": 17.5},
+    {"dia": 4, "t": 20.5},
+    {"dia": 5, "t": 18.9}
+ ]   
+}
